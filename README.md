@@ -1,1 +1,1 @@
-Análise de dados RH IBM
+Análise de dados RH IBM, nessa analise dados analisamos quais gêneros se destacam em quantidade na empresa, qual a faixa salaria, qual gênero se destaca na faixa salárial e qual Campus de estudo mais se destacam na empresa.
